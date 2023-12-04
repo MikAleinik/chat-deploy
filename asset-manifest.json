@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/test-api-2/static/css/main.5e44e9c9.css",
-    "main.js": "/test-api-2/static/js/main.83ee4d83.js",
-    "static/css/660.44429aa8.chunk.css": "/test-api-2/static/css/660.44429aa8.chunk.css",
-    "static/js/660.fb9d9ea6.chunk.js": "/test-api-2/static/js/660.fb9d9ea6.chunk.js",
-    "static/css/789.92b184c4.chunk.css": "/test-api-2/static/css/789.92b184c4.chunk.css",
-    "static/js/789.e5737537.chunk.js": "/test-api-2/static/js/789.e5737537.chunk.js",
-    "static/css/489.31d6cfe0.chunk.css": "/test-api-2/static/css/489.31d6cfe0.chunk.css",
-    "static/js/489.e40d8ba8.chunk.js": "/test-api-2/static/js/489.e40d8ba8.chunk.js",
-    "index.html": "/test-api-2/index.html",
-    "main.5e44e9c9.css.map": "/test-api-2/static/css/main.5e44e9c9.css.map",
-    "main.83ee4d83.js.map": "/test-api-2/static/js/main.83ee4d83.js.map",
-    "660.44429aa8.chunk.css.map": "/test-api-2/static/css/660.44429aa8.chunk.css.map",
-    "660.fb9d9ea6.chunk.js.map": "/test-api-2/static/js/660.fb9d9ea6.chunk.js.map",
-    "789.92b184c4.chunk.css.map": "/test-api-2/static/css/789.92b184c4.chunk.css.map",
-    "789.e5737537.chunk.js.map": "/test-api-2/static/js/789.e5737537.chunk.js.map",
-    "489.e40d8ba8.chunk.js.map": "/test-api-2/static/js/489.e40d8ba8.chunk.js.map"
+    "main.css": "/chat-deploy/static/css/main.5e44e9c9.css",
+    "main.js": "/chat-deploy/static/js/main.16d80cfd.js",
+    "static/css/660.44429aa8.chunk.css": "/chat-deploy/static/css/660.44429aa8.chunk.css",
+    "static/js/660.fb9d9ea6.chunk.js": "/chat-deploy/static/js/660.fb9d9ea6.chunk.js",
+    "static/css/789.92b184c4.chunk.css": "/chat-deploy/static/css/789.92b184c4.chunk.css",
+    "static/js/789.e5737537.chunk.js": "/chat-deploy/static/js/789.e5737537.chunk.js",
+    "static/css/489.31d6cfe0.chunk.css": "/chat-deploy/static/css/489.31d6cfe0.chunk.css",
+    "static/js/489.e40d8ba8.chunk.js": "/chat-deploy/static/js/489.e40d8ba8.chunk.js",
+    "index.html": "/chat-deploy/index.html",
+    "main.5e44e9c9.css.map": "/chat-deploy/static/css/main.5e44e9c9.css.map",
+    "main.16d80cfd.js.map": "/chat-deploy/static/js/main.16d80cfd.js.map",
+    "660.44429aa8.chunk.css.map": "/chat-deploy/static/css/660.44429aa8.chunk.css.map",
+    "660.fb9d9ea6.chunk.js.map": "/chat-deploy/static/js/660.fb9d9ea6.chunk.js.map",
+    "789.92b184c4.chunk.css.map": "/chat-deploy/static/css/789.92b184c4.chunk.css.map",
+    "789.e5737537.chunk.js.map": "/chat-deploy/static/js/789.e5737537.chunk.js.map",
+    "489.e40d8ba8.chunk.js.map": "/chat-deploy/static/js/489.e40d8ba8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e44e9c9.css",
-    "static/js/main.83ee4d83.js"
+    "static/js/main.16d80cfd.js"
   ]
 }
