@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/chat-deploy/static/css/main.cd9dbfb8.css",
-    "main.js": "/chat-deploy/static/js/main.66991418.js",
+    "main.js": "/chat-deploy/static/js/main.8a45d905.js",
     "static/css/369.c6f475ac.chunk.css": "/chat-deploy/static/css/369.c6f475ac.chunk.css",
-    "static/js/369.d43b8a0e.chunk.js": "/chat-deploy/static/js/369.d43b8a0e.chunk.js",
+    "static/js/369.3e5e20ba.chunk.js": "/chat-deploy/static/js/369.3e5e20ba.chunk.js",
     "static/css/487.ad0cda0c.chunk.css": "/chat-deploy/static/css/487.ad0cda0c.chunk.css",
     "static/js/487.8bfca0e4.chunk.js": "/chat-deploy/static/js/487.8bfca0e4.chunk.js",
     "index.html": "/chat-deploy/index.html",
     "main.cd9dbfb8.css.map": "/chat-deploy/static/css/main.cd9dbfb8.css.map",
-    "main.66991418.js.map": "/chat-deploy/static/js/main.66991418.js.map",
+    "main.8a45d905.js.map": "/chat-deploy/static/js/main.8a45d905.js.map",
     "369.c6f475ac.chunk.css.map": "/chat-deploy/static/css/369.c6f475ac.chunk.css.map",
-    "369.d43b8a0e.chunk.js.map": "/chat-deploy/static/js/369.d43b8a0e.chunk.js.map",
+    "369.3e5e20ba.chunk.js.map": "/chat-deploy/static/js/369.3e5e20ba.chunk.js.map",
     "487.ad0cda0c.chunk.css.map": "/chat-deploy/static/css/487.ad0cda0c.chunk.css.map",
     "487.8bfca0e4.chunk.js.map": "/chat-deploy/static/js/487.8bfca0e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd9dbfb8.css",
-    "static/js/main.66991418.js"
+    "static/js/main.8a45d905.js"
   ]
 }

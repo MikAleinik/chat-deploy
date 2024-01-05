@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrs_chat=self.webpackChunkrs_chat||[]).push([[489],{489:(s,c,e)=>{e.r(c),e.d(c,{default:()=>h});e(791);var a=e(184);const h=()=>(0,a.jsx)("div",{children:"\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430."})}}]);
-//# sourceMappingURL=489.e40d8ba8.chunk.js.map
