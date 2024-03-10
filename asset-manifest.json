@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/chat-deploy/static/css/main.cd9dbfb8.css",
-    "main.js": "/chat-deploy/static/js/main.8a45d905.js",
-    "static/css/369.c6f475ac.chunk.css": "/chat-deploy/static/css/369.c6f475ac.chunk.css",
-    "static/js/369.3e5e20ba.chunk.js": "/chat-deploy/static/js/369.3e5e20ba.chunk.js",
-    "static/css/487.ad0cda0c.chunk.css": "/chat-deploy/static/css/487.ad0cda0c.chunk.css",
-    "static/js/487.8bfca0e4.chunk.js": "/chat-deploy/static/js/487.8bfca0e4.chunk.js",
+    "main.css": "/chat-deploy/static/css/main.6fcbe2fc.css",
+    "main.js": "/chat-deploy/static/js/main.dfc99925.js",
+    "static/css/369.8d3b4d73.chunk.css": "/chat-deploy/static/css/369.8d3b4d73.chunk.css",
+    "static/js/369.70d3dbba.chunk.js": "/chat-deploy/static/js/369.70d3dbba.chunk.js",
+    "static/css/487.924a1aa9.chunk.css": "/chat-deploy/static/css/487.924a1aa9.chunk.css",
+    "static/js/487.e2eaa80e.chunk.js": "/chat-deploy/static/js/487.e2eaa80e.chunk.js",
     "index.html": "/chat-deploy/index.html",
-    "main.cd9dbfb8.css.map": "/chat-deploy/static/css/main.cd9dbfb8.css.map",
-    "main.8a45d905.js.map": "/chat-deploy/static/js/main.8a45d905.js.map",
-    "369.c6f475ac.chunk.css.map": "/chat-deploy/static/css/369.c6f475ac.chunk.css.map",
-    "369.3e5e20ba.chunk.js.map": "/chat-deploy/static/js/369.3e5e20ba.chunk.js.map",
-    "487.ad0cda0c.chunk.css.map": "/chat-deploy/static/css/487.ad0cda0c.chunk.css.map",
-    "487.8bfca0e4.chunk.js.map": "/chat-deploy/static/js/487.8bfca0e4.chunk.js.map"
+    "main.6fcbe2fc.css.map": "/chat-deploy/static/css/main.6fcbe2fc.css.map",
+    "main.dfc99925.js.map": "/chat-deploy/static/js/main.dfc99925.js.map",
+    "369.8d3b4d73.chunk.css.map": "/chat-deploy/static/css/369.8d3b4d73.chunk.css.map",
+    "369.70d3dbba.chunk.js.map": "/chat-deploy/static/js/369.70d3dbba.chunk.js.map",
+    "487.924a1aa9.chunk.css.map": "/chat-deploy/static/css/487.924a1aa9.chunk.css.map",
+    "487.e2eaa80e.chunk.js.map": "/chat-deploy/static/js/487.e2eaa80e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd9dbfb8.css",
-    "static/js/main.8a45d905.js"
+    "static/css/main.6fcbe2fc.css",
+    "static/js/main.dfc99925.js"
   ]
 }
